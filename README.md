@@ -125,7 +125,7 @@ Django-based movie streaming demo with clean templates and responsive UI
 
 - 📧 **Email:** komminenisohitha@gmail.com  
 - 💼 **LinkedIn:** linkedin.com/in/sohitha-kommineni  
-- 💻 **GitHub:** github.com/yourusername  
+- 💻 **GitHub:** https://github.com/Sohitha-Kommineni  
 
 ✨ *Always excited to build reliable systems, scalable APIs, and intelligent applications.*
 
