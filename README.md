@@ -25,7 +25,7 @@ I am a **Full-Stack AI Engineer** with hands-on experience building **scalable, 
 
 I specialize in:
 - Python-based **microservices**
-- **React / TypeScript** dashboards
+- **React / TypeScript** frontend
 - **Cloud-native infrastructure** on AWS & Azure
 - Safe and reliable **LLM integrations**
 
