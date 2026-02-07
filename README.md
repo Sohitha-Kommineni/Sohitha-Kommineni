@@ -21,7 +21,7 @@
 
 ## 🌟 About Me
 
-🚀 **Full-Stack AI Engineer** with hands-on experience building **scalable, security-first backend systems** and **high-fidelity frontend applications**.
+I am a **Full-Stack AI Engineer** with hands-on experience building **scalable, security-first backend systems** and **high-fidelity frontend applications**.
 
 I specialize in:
 - Python-based **microservices**
