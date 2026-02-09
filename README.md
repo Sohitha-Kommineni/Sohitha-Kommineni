@@ -37,42 +37,15 @@ I enjoy working on **high-concurrency APIs**, **real-time systems**, and **AI-po
 
 ## 🧰 Tech Stack
 
-### Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-
-### Backend  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
-
-### Frontend  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
-
-### AI & ML  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-
-### Databases  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-
-### Cloud & DevOps  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=black)
-
+| **Category** | **Technologies** |
+|-------------|------------------|
+| **Languages** | Python · TypeScript · JavaScript · SQL · HTML5 · CSS3 |
+| **Backend** | FastAPI · Django · REST APIs · Microservices · Kafka · JWT · RBAC |
+| **Frontend** | React · Tailwind CSS · Component‑based UI |
+| **AI & ML** | LLMs (OpenAI, Claude, Hugging Face) · RAG · Embeddings · Vector Search · Prompt Engineering · NLP · NumPy · Pandas · scikit‑learn · PyTorch · TensorFlow |
+| **Databases** | PostgreSQL · MySQL · Redis · AWS S3 |
+| **Cloud & DevOps** | Docker · Kubernetes · GitHub Actions · CI/CD · AWS (EC2, RDS, S3, CloudWatch) |
+| **Observability** | Prometheus · Grafana · Audit Logging |
 ---
 
 ## 💼 Professional Experience
