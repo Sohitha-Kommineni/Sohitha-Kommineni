@@ -19,19 +19,17 @@
 
 ---
 
-## 🌟 About Me
+## 👩‍💻 About Me
 
-I am a **Full-Stack AI Engineer** with hands-on experience building **scalable, security-first backend systems** and **high-fidelity frontend applications**.
+I'm a Full Stack Developer and ML Engineer focused on building scalable backend systems, AI‑powered features, and clean, modern web applications. I work across Python, FastAPI, React, PostgreSQL, and cloud‑native tooling to deliver reliable, production‑ready solutions. My recent work includes LLM/RAG pipelines, workflow automation, secure authentication, and real‑time dashboards.
 
-I specialize in:
-- Python-based **microservices**
-- **React / TypeScript** frontend
-- **Cloud-native infrastructure** on AWS & Azure
-- Safe and reliable **LLM integrations**
-
-I enjoy working on **high-concurrency APIs**, **real-time systems**, and **AI-powered platforms**, and I thrive in **collaborative, globally distributed teams**.
-
-📍 San Francisco, CA  
+## 🔧 I Specialize In
+- Building scalable backend services with Python, FastAPI, PostgreSQL, Redis, and Kafka  
+- Designing secure authentication/authorization systems (JWT, RBAC)  
+- Integrating LLMs, RAG pipelines, embeddings, and vector search into real products  
+- Developing clean, responsive UIs with React and Tailwind CSS  
+- Implementing CI/CD, containerized deployments, and AWS‑based infrastructure  
+- Creating monitoring, logging, and observability setups with Prometheus & Grafana  
 
 ---
 
