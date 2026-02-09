@@ -111,43 +111,24 @@ I enjoy working on **high-concurrency APIs**, **real-time systems**, and **AI-po
 ### 🏢 **Symplore Inc, USA** — *Software Engineer*  
 📅 **Feb 2025 – Present**
 
-- Built an **enterprise AI chatbot platform** supporting daily internal workflows
-- Developed **15+ REST & GraphQL APIs** using FastAPI with versioned routing
-- Implemented **OAuth2, OpenID Connect, JWT, and RBAC**, reducing unauthorized access by **90%**
-- Integrated **OpenAI models** with guarded prompts and safety filters, improving response quality by **60%**
-- Designed optimized **PostgreSQL schemas** for high-volume conversational data
-- Built **Kafka producers** with schema validation and idempotent writes
-- Automated **CI/CD pipelines** using Jenkins, Docker, Kubernetes
-- Created **CloudWatch dashboards & alerts**, reducing incident triage time by **25%**
+Build scalable **FastAPI/Kafka** services and integrate **LLM‑powered automation** into workflow systems, improving reliability, latency, and internal operations. Develop **React/TypeScript** dashboards, strengthen security **(JWT, RBAC)**, and enhance monitoring with **Prometheus/Grafana**.
 
 ---
 
 ### 🏢 **Wipro Limited, India** — *Full-Stack Engineer*  
 📅 **Mar 2021 – Dec 2022**
 
-- Developed scalable **e-commerce backend services** using Django & FastAPI
-- Built responsive UIs with **HTML, CSS, Tailwind**, improving cross-device performance
-- Optimized REST APIs and MySQL queries, improving response times by **15%**
-- Integrated **Redis caching**, reducing database load during peak traffic
-- Implemented **JWT authentication** with secure token lifecycle management
-- Increased test coverage using **PyTest**, reducing production defects
-- Deployed and monitored workloads on **AWS (EC2, S3, RDS, CloudWatch)**
+Developed backend features using **Python, Django, FastAPI, and MySQL** for high‑traffic e-commerce workflows, improving performance and reliability. Built responsive UIs, optimized APIs and queries, implemented **JWT auth**, added **Redis caching**, and deployed services on **AWS**.
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔐 AUTH Vault
-FastAPI-based authentication system with **PostgreSQL, Redis, JWT, and RBAC**  
-🔗 GitHub Repo
+🎓 **AI Research Assistant** — RAG‑powered assistant built with FastAPI, PostgreSQL, and React, featuring streaming chat and project‑based document management.
 
-### 🤖 DocQuery
-Secure **RAG-based AI knowledge assistant** using FastAPI, pgvector, React & Tailwind  
-🔗 GitHub Repo
+🎬 **Streaming Platform** — Django‑based movie streaming demo with clean templates, local data, and a fully responsive UI.
 
-### 🎬 Streaming Platform
-Django-based movie streaming demo with clean templates and responsive UI  
-🔗 GitHub Repo
+🔐 **AUTH Vault** — FastAPI authentication service using PostgreSQL, Redis, JWT, and RBAC for secure, modular auth workflows. 
 
 ---
 
