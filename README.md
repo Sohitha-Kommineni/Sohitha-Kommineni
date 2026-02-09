@@ -108,14 +108,14 @@ I enjoy working on **high-concurrency APIs**, **real-time systems**, and **AI-po
 
 ## 💼 Professional Experience
 
-### 🏢 **Symplore Inc, USA** — *Software Engineer*  
+### 🏢 **Symplore Inc, USA** - *Software Engineer*  
 📅 **Feb 2025 – Present**
 
 Build scalable **FastAPI/Kafka** services and integrate **LLM‑powered automation** into workflow systems, improving reliability, latency, and internal operations. Develop **React/TypeScript** dashboards, strengthen security **(JWT, RBAC)**, and enhance monitoring with **Prometheus/Grafana**.
 
 ---
 
-### 🏢 **Wipro Limited, India** — *Full-Stack Engineer*  
+### 🏢 **Wipro Limited, India** - *Full-Stack Engineer*  
 📅 **Mar 2021 – Dec 2022**
 
 Developed backend features using **Python, Django, FastAPI, and MySQL** for high‑traffic e-commerce workflows, improving performance and reliability. Built responsive UIs, optimized APIs and queries, implemented **JWT auth**, added **Redis caching**, and deployed services on **AWS**.
@@ -124,11 +124,11 @@ Developed backend features using **Python, Django, FastAPI, and MySQL** for high
 
 ## 📌 Featured Projects
 
-🎓 **AI Research Assistant** — RAG‑powered assistant built with FastAPI, PostgreSQL, and React, featuring streaming chat and project‑based document management.
+🎓 **AI Research Assistant** : RAG‑powered assistant built with FastAPI, PostgreSQL, and React, featuring streaming chat and project‑based document management.
 
-🎬 **Streaming Platform** — Django‑based movie streaming demo with clean templates, local data, and a fully responsive UI.
+🎬 **Streaming Platform** : Django‑based movie streaming demo with clean templates, local data, and a fully responsive UI.
 
-🔐 **AUTH Vault** — FastAPI authentication service using PostgreSQL, Redis, JWT, and RBAC for secure, modular auth workflows. 
+🔐 **AUTH Vault** : FastAPI authentication service using PostgreSQL, Redis, JWT, and RBAC for secure, modular auth workflows. 
 
 ---
 
