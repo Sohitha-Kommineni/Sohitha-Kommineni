@@ -23,7 +23,7 @@
 
 I'm a Full Stack Developer and ML Engineer focused on building scalable backend systems, AI‑powered features, and clean, modern web applications. I work across Python, FastAPI, React, PostgreSQL, and cloud‑native tooling to deliver reliable, production‑ready solutions. My recent work includes LLM/RAG pipelines, workflow automation, secure authentication, and real‑time dashboards.
 
-## 🔧 I Specialize In
+I Specialize In
 - Building scalable backend services with Python, FastAPI, PostgreSQL, Redis, and Kafka  
 - Designing secure authentication/authorization systems (JWT, RBAC)  
 - Integrating LLMs, RAG pipelines, embeddings, and vector search into real products  
