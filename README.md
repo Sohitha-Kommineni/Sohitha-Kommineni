@@ -43,10 +43,10 @@ I enjoy delivering **production-ready solutions** that are reliable, performant,
 
 ## 💼 Experience
 
-### 🏢 Symplore Inc, USA — *Full-Stack Developer*  
+### 🏢 Symplore Inc, USA - *Full-Stack Developer*  
 📅 Feb 2025 – Present  
 
-### 🏢 Wipro Limited, Hyderabad, India — *Associate Software Engineer*  
+### 🏢 Wipro Limited, Hyderabad, India - *Associate Software Engineer*  
 📅 Sep 2020 – Dec 2022  
 
 ---
