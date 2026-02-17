@@ -9,10 +9,10 @@
   <a href="mailto:komminenisohitha@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/sohitha-kommineni">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com">
+  <a href="https://github.com/Sohitha-Kommineni">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -21,15 +21,15 @@
 
 ## 👩‍💻 About Me
 
-I'm a Full Stack Developer and ML Engineer focused on building scalable backend systems, AI‑powered features, and clean, modern web applications. I work across Python, FastAPI, React, PostgreSQL, and cloud‑native tooling to deliver reliable, production‑ready solutions. My recent work includes LLM/RAG pipelines, workflow automation, secure authentication, and real‑time dashboards.
+I'm a **Full-Stack Developer and ML Engineer** focused on building scalable backend systems, AI‑powered features, and clean, modern web applications. I work across **Python, FastAPI, React, PostgreSQL, and cloud-native tooling** to deliver reliable, production-ready solutions. My recent work includes **LLM/RAG pipelines, workflow automation, secure authentication, and real-time dashboards**.
 
-I Specialize In
-- Building scalable backend services with Python, FastAPI, PostgreSQL, Redis, and Kafka  
-- Designing secure authentication/authorization systems (JWT, RBAC)  
-- Integrating LLMs, RAG pipelines, embeddings, and vector search into real products  
-- Developing clean, responsive UIs with React and Tailwind CSS  
-- Implementing CI/CD, containerized deployments, and AWS‑based infrastructure  
-- Creating monitoring, logging, and observability setups with Prometheus & Grafana  
+I specialize in:  
+- Building scalable backend services with **Python, FastAPI, PostgreSQL, Redis, and Kafka**  
+- Designing secure authentication/authorization systems (**JWT, RBAC**)  
+- Integrating **LLMs, RAG pipelines, embeddings, and vector search** into real products  
+- Developing clean, responsive UIs with **React and Tailwind CSS**  
+- Implementing **CI/CD, containerized deployments, and AWS-based infrastructure**  
+- Creating monitoring, logging, and observability setups with **Prometheus & Grafana**
 
 ---
 
@@ -47,44 +47,29 @@ I Specialize In
 
 ---
 
-## 💼 Professional Experience
-
-### 🏢 **Symplore Inc, USA** - *Software Engineer*  
-📅 **Feb 2025 – Present**
-
-Build scalable **FastAPI/Kafka** services and integrate **LLM‑powered automation** into workflow systems, improving reliability, latency, and internal operations. Develop **React/TypeScript** dashboards, strengthen security **(JWT, RBAC)**, and enhance monitoring with **Prometheus/Grafana**.
-
----
-
-### 🏢 **Wipro Limited, India** - *Full-Stack Engineer*  
-📅 **Mar 2021 – Dec 2022**
-
-Developed backend features using **Python, Django, FastAPI, and MySQL** for high‑traffic e-commerce workflows, improving performance and reliability. Built responsive UIs, optimized APIs and queries, implemented **JWT auth**, added **Redis caching**, and deployed services on **AWS**.
-
----
-
 ## 📌 Featured Projects
 
-🎓 **AI Research Assistant** : RAG‑powered assistant built with FastAPI, PostgreSQL, and React, featuring streaming chat and project‑based document management.
+🎓 **AI Research Assistant** : RAG-powered assistant built with **FastAPI, PostgreSQL, React**, featuring streaming chat and project-based document management.  
 
-🎬 **Streaming Platform** : Django‑based movie streaming demo with clean templates, local data, and a fully responsive UI.
+🎬 **Streaming Platform** : Django-based movie streaming demo with clean templates, local data, and a fully responsive UI.  
 
-🔐 **AUTH Vault** : FastAPI authentication service using PostgreSQL, Redis, JWT, and RBAC for secure, modular auth workflows. 
+🔐 **AUTH Vault** : FastAPI authentication service using **PostgreSQL, Redis, JWT, RBAC** for secure, modular auth workflows.  
 
 ---
 
 ## 🎓 Education
 
-🎓 **Master of Science in Computer and Information Sciences**  
-🏫 University of North Texas — Denton, TX
+🎓 **Master of Science in Computer & Information Sciences**  
+🏫 University of North Texas — Dec 2024 | Denton, TX  
 
 ---
 
 ## 📫 Let’s Connect
 
 - 📧 **Email:** komminenisohitha@gmail.com  
-- 💼 **LinkedIn:** linkedin.com/in/sohitha-kommineni  
-- 💻 **GitHub:** https://github.com/Sohitha-Kommineni  
+- 💼 **LinkedIn:** [linkedin.com/in/sohitha-kommineni](https://www.linkedin.com/in/sohitha-kommineni)  
+- 💻 **GitHub:** [github.com/Sohitha-Kommineni](https://github.com/Sohitha-Kommineni)  
 
 ✨ *Always excited to build reliable systems, scalable APIs, and intelligent applications.*
+
 
