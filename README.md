@@ -21,9 +21,9 @@
 
 ## 👩‍💻 About Me
 
-I am a Full-Stack Developer with around 4 years of experience in designing and building **scalable web applications** and **AI-powered features**. My expertise spans **Python, Django, Flask, FastAPI, React, JavaScript, TypeScript**, and cloud-native infrastructure, with hands-on experience integrating **LLM and NLP solutions** using OpenAI and Hugging Face.  
+I am a Full-Stack Developer with around 4 years of experience building **scalable web applications, APIs, and AI-powered features**. My work spans **Python, Django, Flask, FastAPI, React, TypeScript**, and cloud-native infrastructure. I design **robust backend systems, secure authentication flows, and optimized databases**, while integrating **LLM/NLP pipelines** using OpenAI and Hugging Face.  
 
-I specialize in developing **reliable backend services, RESTful APIs, database schemas, secure authentication systems, workflow automation, and responsive front-end interfaces**. I also work extensively with **CI/CD pipelines, Dockerized deployments, and AWS-based cloud solutions** to deliver production-ready applications.  
+I enjoy delivering **production-ready solutions** that are reliable, performant, and enhanced with intelligent automation, bridging backend, frontend, and AI capabilities in real-world applications.  
 
 ---
 
