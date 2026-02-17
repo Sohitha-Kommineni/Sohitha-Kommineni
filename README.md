@@ -3,7 +3,7 @@
 <!-- ===================== -->
 
 <h1 align="center">Hi 👋, I'm Sohitha Kommineni</h1>
-<h3 align="center">Full-Stack AI Engineer | Cloud • APIs • LLMs</h3>
+<h3 align="center">Full-Stack Developer | AI & LLM Integration | Cloud & APIs</h3>
 
 <p align="center">
   <a href="mailto:komminenisohitha@gmail.com">
@@ -21,15 +21,9 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Full-Stack Developer and ML Engineer** focused on building scalable backend systems, AI‑powered features, and clean, modern web applications. I work across **Python, FastAPI, React, PostgreSQL, and cloud-native tooling** to deliver reliable, production-ready solutions. My recent work includes **LLM/RAG pipelines, workflow automation, secure authentication, and real-time dashboards**.
+I am a Full-Stack Developer with around 4 years of experience in designing and building **scalable web applications** and **AI-powered features**. My expertise spans **Python, Django, Flask, FastAPI, React, JavaScript, TypeScript**, and cloud-native infrastructure, with hands-on experience integrating **LLM and NLP solutions** using OpenAI and Hugging Face.  
 
-I specialize in:  
-- Building scalable backend services with **Python, FastAPI, PostgreSQL, Redis, and Kafka**  
-- Designing secure authentication/authorization systems (**JWT, RBAC**)  
-- Integrating **LLMs, RAG pipelines, embeddings, and vector search** into real products  
-- Developing clean, responsive UIs with **React and Tailwind CSS**  
-- Implementing **CI/CD, containerized deployments, and AWS-based infrastructure**  
-- Creating monitoring, logging, and observability setups with **Prometheus & Grafana**
+I specialize in developing **reliable backend services, RESTful APIs, database schemas, secure authentication systems, workflow automation, and responsive front-end interfaces**. I also work extensively with **CI/CD pipelines, Dockerized deployments, and AWS-based cloud solutions** to deliver production-ready applications.  
 
 ---
 
@@ -47,13 +41,27 @@ I specialize in:
 
 ---
 
+## 💼 Experience
+
+### 🏢 Symplore Inc, USA — *Full-Stack Developer*  
+📅 Feb 2025 – Present  
+
+At Symplore, I develop and scale web applications using **Python, Django, DRF, Flask, React, and TypeScript**, supporting thousands of daily user requests with consistent performance. I integrate **LLM and NLP features** using OpenAI and Hugging Face, design and optimize **PostgreSQL schemas and queries**, automate CI/CD pipelines with Docker and GitHub Actions, and deploy cloud-native applications on **AWS**. My work bridges backend reliability, front-end usability, and AI-driven features, contributing to multiple successful product releases.
+
+### 🏢 Wipro Limited, Hyderabad, India — *Associate Software Engineer*  
+📅 Sep 2020 – Dec 2022  
+
+At Wipro, I worked on backend development with **Python, Flask, Jinja2, SQLAlchemy, and MySQL**, while creating responsive front-end components using JavaScript and Bootstrap. I built REST APIs, optimized queries and database structures, implemented authentication flows, automated workflows, and developed small-scale ML utilities. I also containerized applications with Docker and deployed services on AWS, contributing to stable and scalable enterprise solutions.
+
+---
+
 ## 📌 Featured Projects
 
-🎓 **AI Research Assistant** : RAG-powered assistant built with **FastAPI, PostgreSQL, React**, featuring streaming chat and project-based document management.  
+🎓 **AI Research Assistant** : RAG-powered assistant built with **FastAPI, PostgreSQL, React**, featuring streaming chat and document management.  
 
-🎬 **Streaming Platform** : Django-based movie streaming demo with clean templates, local data, and a fully responsive UI.  
+🎬 **Streaming Platform** : Django-based movie streaming demo with clean templates, local data, and responsive UI.  
 
-🔐 **AUTH Vault** : FastAPI authentication service using **PostgreSQL, Redis, JWT, RBAC** for secure, modular auth workflows.  
+🔐 **AUTH Vault** : FastAPI authentication service using **PostgreSQL, Redis, JWT, RBAC**, containerized with Docker and fully documented via OpenAPI.
 
 ---
 
@@ -70,6 +78,7 @@ I specialize in:
 - 💼 **LinkedIn:** [linkedin.com/in/sohitha-kommineni](https://www.linkedin.com/in/sohitha-kommineni)  
 - 💻 **GitHub:** [github.com/Sohitha-Kommineni](https://github.com/Sohitha-Kommineni)  
 
-✨ *Always excited to build reliable systems, scalable APIs, and intelligent applications.*
+✨ *Always excited to build scalable systems, intelligent applications, and AI-powered solutions.*
+
 
 
