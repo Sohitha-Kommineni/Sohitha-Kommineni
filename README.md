@@ -46,12 +46,8 @@ I enjoy delivering **production-ready solutions** that are reliable, performant,
 ### 🏢 Symplore Inc, USA — *Full-Stack Developer*  
 📅 Feb 2025 – Present  
 
-At Symplore, I develop and scale web applications using **Python, Django, DRF, Flask, React, and TypeScript**, supporting thousands of daily user requests with consistent performance. I integrate **LLM and NLP features** using OpenAI and Hugging Face, design and optimize **PostgreSQL schemas and queries**, automate CI/CD pipelines with Docker and GitHub Actions, and deploy cloud-native applications on **AWS**. My work bridges backend reliability, front-end usability, and AI-driven features, contributing to multiple successful product releases.
-
 ### 🏢 Wipro Limited, Hyderabad, India — *Associate Software Engineer*  
 📅 Sep 2020 – Dec 2022  
-
-At Wipro, I worked on backend development with **Python, Flask, Jinja2, SQLAlchemy, and MySQL**, while creating responsive front-end components using JavaScript and Bootstrap. I built REST APIs, optimized queries and database structures, implemented authentication flows, automated workflows, and developed small-scale ML utilities. I also containerized applications with Docker and deployed services on AWS, contributing to stable and scalable enterprise solutions.
 
 ---
 
