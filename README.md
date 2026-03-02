@@ -43,7 +43,7 @@ I enjoy delivering **production-ready solutions** that are reliable, performant,
 
 ## 💼 Experience
 
-### 🏢 Full-Stack Developer, USA - *Full-Stack Developer*  
+### 🏢 JPMorgan Chase, USA - *Full-Stack Developer*  
 📅 Feb 2025 – Present  
 
 ### 🏢 Wipro Limited, Hyderabad, India - *Associate Software Engineer*  
@@ -53,7 +53,7 @@ I enjoy delivering **production-ready solutions** that are reliable, performant,
 
 ## 📌 Featured Projects
 
-🎓 **AI Research Assistant** : RAG-powered assistant built with **FastAPI, PostgreSQL, React**, featuring streaming chat and document management.  
+🎓 **AI Research Assistant** : RAG-powered assistant built with **FastAPI, SQLAlchemy, React**, featuring streaming chat and document management.  
 
 🎬 **Streaming Platform** : Django-based movie streaming demo with clean templates, local data, and responsive UI.  
 
