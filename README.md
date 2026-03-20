@@ -21,7 +21,7 @@
 
 ## 👩‍💻 About Me
 
-I am a Full-Stack Developer with around 4 years of experience building **scalable web applications, APIs, and AI-powered features**. My work spans **Python, Django, Flask, FastAPI, React, TypeScript**, and cloud-native infrastructure. I design **robust backend systems, secure authentication flows, and optimized databases**, while integrating **LLM/NLP pipelines** using OpenAI and Hugging Face.  
+I am a Full-Stack Developer with around 4 years of experience building **scalable web applications, APIs, and AI-powered features**. My work spans **Python, Django, Flask, FastAPI, React, TypeScript**, and cloud-native infrastructure. I design **robust backend systems, secure authentication flows, and optimized databases**, while integrating **LLM pipelines**.  
 
 I enjoy delivering **production-ready solutions** that are reliable, performant, and enhanced with intelligent automation, bridging backend, frontend, and AI capabilities in real-world applications.  
 
@@ -38,16 +38,6 @@ I enjoy delivering **production-ready solutions** that are reliable, performant,
 | **Databases & Storage** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![S3](https://img.shields.io/badge/AWS_S3-569A31?logo=amazonaws&logoColor=white) |
 | **Cloud, DevOps & CI/CD** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=black) |
 | **Security & Observability** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) ![Audit Logging](https://img.shields.io/badge/Audit_Logging-555555?logoColor=white) |
-
----
-
-## 💼 Experience
-
-### 🏢 JPMorgan Chase, USA - *Full-Stack Developer*  
-📅 Feb 2025 – Present  
-
-### 🏢 Wipro Limited, Hyderabad, India - *Associate Software Engineer*  
-📅 Sep 2020 – Dec 2022  
 
 ---
 
