@@ -21,9 +21,7 @@
 
 ## 👩‍💻 About Me
 
-I am a Full-Stack Developer with around 4 years of experience building **scalable web applications, APIs, and AI-powered features**. My work spans **Python, Django, Flask, FastAPI, React, TypeScript**, and cloud-native infrastructure. I design **robust backend systems, secure authentication flows, and optimized databases**, while integrating **LLM pipelines**.  
-
-I enjoy delivering **production-ready solutions** that are reliable, performant, and enhanced with intelligent automation, bridging backend, frontend, and AI capabilities in real-world applications.  
+Full-stack Software Engineer with expertise in scalable, high-throughput backends and React frontends, microservices architecture, and AI-powered feature integration. Skilled in Django and Django REST Framework, PostgreSQL and NoSQL optimization, and designing solutions for complex distributed systems. Applies strong OOP principles and Agile workflows while collaborating cross-functionally in design reviews and code reviews to raise team quality and productivity.
 
 ---
 
